@@ -57,7 +57,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 Pour exécuter le script Python, utilisez la commande suivante :
 
 ```bash
-python analyse_donnees.py
+python nom_fichier.py
 ```
 
 Assurez-vous que le fichier `Live.csv` est dans le même répertoire que le script ou modifiez le chemin dans le script en conséquence.
