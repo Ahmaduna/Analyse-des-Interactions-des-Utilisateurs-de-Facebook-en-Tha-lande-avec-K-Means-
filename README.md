@@ -7,7 +7,7 @@ Ce projet analyse les données des publications sur Facebook collectées en Tha�
 ## Contenu du Répertoire
 
 - `Live.csv` : Fichier CSV contenant les données des publications Facebook.
-- `analyse_donnees.py` : Script Python pour l'analyse des données, y compris la visualisation, l'ACP et le clustering.
+- 01_Kmeans_Python.py` : Script Python pour l'analyse des données, y compris la visualisation, l'ACP et le clustering.
 
 ## Prérequis
 
